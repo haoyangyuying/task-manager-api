@@ -21,6 +21,10 @@
     "sharp": "^0.25.2",
     "validator": "^10.9.0"
   },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
   "devDependencies": {
     "env-cmd": "^8.0.2",
     "nodemon": "^1.18.9"
